@@ -4,7 +4,6 @@
 
 ![Resultado final do projeto](assets/image/preview.png)
 
-<h4 align="center"><a href="https://www.iuricode.com/">Clique para visitar o projeto</a></h4>
 
 ## 📚 Seções
 
