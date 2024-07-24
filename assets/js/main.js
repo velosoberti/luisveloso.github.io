@@ -19,13 +19,13 @@ hoverChangeExperience(
 );
 
 hoverChangeExperience(
-  ".zuplae",
-  `Trabalhei como Social Media e Designer na Zuplae que é um escola
-  de programação, onde teve como foco as criações de conteúdos sobre
-  programação para a comunidade dev através das redes sociais.`,
-  "Social Media e UI Designer",
-  "Zuplae",
-  "Jan 2022 - Abril 2022 (4 meses)"
+  ".Hyst",
+  `Encarregado da supervisão e verificação meticulosa dos fluxos de dados relativos ao estoque e às vendas dos clientes em DB,
+  bem como da implementação de ajustes necessários. Responsável, adicionalmente, pela otimização, atualização e verificação dos painéis de controle (Dashboards) 
+  utilizados pelos clientes em Power BI. Além de otimização de scripts e automações de tarefas repetitivas e rotineiras.`,
+  "Analista BI",
+  "Hyst",
+  "Jan 2024 - Hoje"
 );
 
 hoverChangeExperience(
