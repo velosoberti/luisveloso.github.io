@@ -9,13 +9,13 @@ initScrollReveal();
 typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeExperience(
-  ".Hyst",
-  `Encarregado da supervisão e verificação meticulosa dos fluxos de dados relativos ao estoque e às vendas dos clientes em DB, 
-  bem como da implementação de ajustes necessários. Responsável, adicionalmente, pela otimização, atualização e verificação dos painéis de controle (Dashboards)
-  utilizados pelos clientes em Power BI. Além de otimização de scripts e automações de tarefas repetitivas e rotineiras.`,
-  "Analista BI",
-  "Hyst",
-  "Jan 2024 - Hoje"
+  ".Oakem",
+  `Responsável pelo gerenciamento do sistema ERP, controle de documentação, geração de relatórios em Power BI para tomada de decisões, 
+   controle de Data Bases,
+   manipulação de dados em staging, custeio dos produtos e setores. Ajudante em tarefas de faturamento e contabilidade.`,
+  "Auxiliar Financeiro",
+  "Oakem",
+  "Nov 2021 - Jan 2024 (3 ano)"
 );
 
 hoverChangeExperience(
