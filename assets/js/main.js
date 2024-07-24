@@ -29,13 +29,13 @@ hoverChangeExperience(
 );
 
 hoverChangeExperience(
-  ".codigofontetv",
-  `Trabalhei como Social Media e Designer no Código Fonte TV, 
-  onde teve como foco as criações de conteúdos sobre programação 
-  para a comunidade dev através das redes sociais.`,
-  "Social Media e Designer",
-  "Código Fonte TV",
-  "Jun 2021 - Jan 2022 (8 meses)"
+  ".prof",
+  `Atuei professando Excel Avançado e Power BI do básico ao avançado por um ano pela plataforma Super Prof.
+  Ensinando alunos a pensarem de forma criativa e independente sob soluções de problemas diários e 
+  criação de insights baseados em dados`,
+  "Professor de Excel e Power BI",
+  "Super Prof",
+  "Jun 2020 - Jan 2021 (1 Ano)"
 );
 
 hoverChangeExperience(
