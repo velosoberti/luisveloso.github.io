@@ -9,15 +9,13 @@ initScrollReveal();
 typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeExperience(
-  ".digitalhouse",
-  `Trabalhei como instrutor conteudista em frontend na
-  Digital House, o trabalho consistia em criar conteúdos para as
-  aulas de especialização frontend. Alguns temas dos conteúdos
-  realizados foram: React, Redux, TypeScript, Testes,
-  GraphQL, Next.js, MUI, React Hook Form e styled-components.`,
-  "Professor conteudista em Frontend",
-  "Digital House",
-  "Nov 2021 - Nov 2022 (1 ano)"
+  ".Hyst",
+  `Encarregado da supervisão e verificação meticulosa dos fluxos de dados relativos ao estoque e às vendas dos clientes em DB, 
+  bem como da implementação de ajustes necessários. Responsável, adicionalmente, pela otimização, atualização e verificação dos painéis de controle (Dashboards)
+  utilizados pelos clientes em Power BI. Além de otimização de scripts e automações de tarefas repetitivas e rotineiras.`,
+  "Analista BI",
+  "Hyst",
+  "Jan 2024 - Hoje"
 );
 
 hoverChangeExperience(
