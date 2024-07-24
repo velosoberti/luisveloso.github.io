@@ -34,7 +34,7 @@ hoverChangeExperience(
   Ensinando alunos a pensarem de forma criativa e independente sob soluções de problemas diários e 
   criação de insights baseados em dados`,
   "Professor de Excel e Power BI",
-  "Super Prof",
+  "Professor",
   "Jun 2020 - Jan 2021 (1 Ano)"
 );
 
