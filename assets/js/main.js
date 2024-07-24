@@ -9,7 +9,7 @@ initScrollReveal();
 typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeExperience(
-  ".Hyst",
+  ".digitalhouse",
   `Encarregado da supervisão e verificação meticulosa dos fluxos de dados relativos ao estoque e às vendas dos clientes em DB, 
   bem como da implementação de ajustes necessários. Responsável, adicionalmente, pela otimização, atualização e verificação dos 
   painéis de controle (Dashboards) utilizados pelos clientes em Power BI.
