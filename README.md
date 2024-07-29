@@ -2,7 +2,9 @@
   💻<br>Portfolio - Luis Henrique
 </h1>
 
-![image](https://github.com/user-attachments/assets/66cf4ebb-8cc0-4aa3-871c-bf285cdf869a)
+
+![image](https://github.com/user-attachments/assets/444db64d-6d59-46ed-a7c7-439d4ec92007)
+
 
 
 
