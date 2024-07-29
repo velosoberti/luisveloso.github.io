@@ -24,7 +24,7 @@ hoverChangeExperience(
   and verifying dashboards used by clients in Power BI, as well as developing analyses such as Att Rate, model prediction accuracy, and commercial portfolio tracking dashboards, etc.`,
   "Analista BI",
   "Hyst",
-  "Jan 2024 - Hoje"
+  "Jan 2024 - Today"
 );
 
 hoverChangeExperience(
