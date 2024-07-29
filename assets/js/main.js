@@ -10,19 +10,18 @@ typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeExperience(
   ".Oakem",
-  `Responsável pelo gerenciamento do sistema ERP, controle de documentação, geração de relatórios em Power BI para tomada de decisões, 
-   controle de Data Bases,
-   manipulação de dados em staging, custeio dos produtos e setores. Ajudante em tarefas de faturamento e contabilidade.`,
-  "Auxiliar Financeiro",
+  `Responsible for managing the ERP system, controlling documentation, 
+  generating Power BI reports for decision-making, managing databases, manipulating staging data, and costing products and departments. Assists with billing and accounting tasks.`,
+  "Financial Assistant",
   "Oakem",
-  "Nov 2021 - Jan 2024 (3 ano)"
+  "Nov 2021 - Jan 2024 (3 Years)"
 );
 
 hoverChangeExperience(
   ".Hyst",
-  `Encarregado da supervisão e verificação meticulosa dos fluxos de dados relativos ao estoque e às vendas dos clientes em DB,
-  bem como da implementação de ajustes necessários. Responsável, adicionalmente, pela otimização, atualização e verificação dos painéis de controle (Dashboards) 
-  utilizados pelos clientes em Power BI. Além de otimização de scripts e automações de tarefas repetitivas e rotineiras.`,
+  `Responsible for overseeing and meticulously verifying data flows related to inventory and customer sales in DB, as well as implementing necessary adjustments. 
+  Additionally responsible for creating, optimizing, updating, 
+  and verifying dashboards used by clients in Power BI, as well as developing analyses such as Att Rate, model prediction accuracy, and commercial portfolio tracking dashboards, etc.`,
   "Analista BI",
   "Hyst",
   "Jan 2024 - Hoje"
@@ -30,12 +29,11 @@ hoverChangeExperience(
 
 hoverChangeExperience(
   ".prof",
-  `Atuei professando Excel Avançado e Power BI do básico ao avançado por um ano pela plataforma Super Prof.
-  Ensinando alunos a pensarem de forma criativa e independente sob soluções de problemas diários e 
-  criação de insights baseados em dados`,
-  "Professor de Excel e Power BI",
+  `I taught Advanced Excel and Power BI, from basic to advanced levels, 
+  for one year on the Super Prof platform. I guided students in thinking creatively and independently about solving everyday problems and creating data-driven insights.`,
+  "Excel and Power BI Instructor",
   "Professor",
-  "Jun 2020 - Jan 2021 (1 Ano)"
+  "Jun 2020 - Jan 2021 (1 Year)"
 );
 
 hoverChangeExperience(
