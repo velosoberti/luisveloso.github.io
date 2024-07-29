@@ -1,17 +1,17 @@
 <h1 align="center">
-  💻<br>Portfólio - Luis Henrique
+  💻<br>Portfolio - Luis Henrique
 </h1>
 
 ![image](https://github.com/user-attachments/assets/66cf4ebb-8cc0-4aa3-871c-bf285cdf869a)
 
 
 
-## 📚 Seções
+## 📚 Sections
 
-O site é composto por seis seções:
+The site is composed of six sections:
 
-- **Home:** Nele temos uma breve apresentação;
-- **Quem sou:** Nessa seção tenho uma descrição dizendo um pouco sobre quem sou;
-- **Experiências:** Abordo algumas empresas da qual prestei meus serviços na área de desenvolvimento e design;
-- **Projetos:** Apresenta alguns projetos desenvolvidos e com link direto para os respectivos códigos no GitHub;
-- **Serviços:** Exibe através de cards os diferentes serviços em que possuo conhecimentos;
+- **Home:** This section provides a brief introduction.
+- **About Me:** Here, I include a description about who I am.
+- **Experience:** I cover some companies where I have provided services in development and design.
+- **Projects:** Showcases various projects I've developed, with direct links to the respective codes on GitHub.
+- **Services:** Displays different services I offer through cards, highlighting my areas of expertise.
