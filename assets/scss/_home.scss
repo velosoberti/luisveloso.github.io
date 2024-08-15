@@ -86,9 +86,9 @@
       
       #logo {
         position: absolute;
-        right: -50px;
+        right: 50px;
         top: 50%;
-        transform: translate(0%, -50%);
+        transform: translate(0%, 50%);
 
         @include responsive-desktop {
           display: none;
