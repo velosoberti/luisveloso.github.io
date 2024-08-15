@@ -22,7 +22,7 @@ hoverChangeExperience(
   `Responsible for overseeing and meticulously verifying data flows related to inventory and customer sales in DB, as well as implementing necessary adjustments. 
   Additionally responsible for creating, optimizing, updating, 
   and verifying dashboards used by clients in Power BI, as well as developing analyses such as Att Rate, model prediction accuracy, and commercial portfolio tracking dashboards, etc.`,
-  "Analista BI",
+  "BI Analytics",
   "Hyst",
   "Jan 2024 - Today"
 );
