@@ -30,7 +30,7 @@ hoverChangeExperience(
 hoverChangeExperience(
   ".prof",
   `I teach Advanced Excel and Power BI, from basic to advanced levels
-  .I guided students in thinking creatively and independently about solving everyday problems and creating data-driven insights.`,
+   I guided students in thinking creatively and independently about solving everyday problems and creating data-driven insights.`,
   "Excel and Power BI Instructor",
   "Professor",
   "Jun 2020 - Nowadays"
