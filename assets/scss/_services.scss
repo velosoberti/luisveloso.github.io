@@ -23,16 +23,12 @@
         @include block-article;
         border: 1px solid $bg-border;
         border-radius: 4px;
-        margin: $gap-3; // Para espaçar os artigos
 
-   div {
-          height: auto; // Ajuste para acomodar o conteúdo do iframe
-          overflow: hidden; // Para garantir que não haja overflow indesejado
+        div {
+          height: 90px;
 
-          iframe {
-            width: 100%; // Ajustar iframe para ocupar toda a largura do artigo
-            height: auto; // Ajuste automático da altura
-            border: none; // Remover bordas do iframe
+          img {
+            width: 70px;
           }
         }
 
