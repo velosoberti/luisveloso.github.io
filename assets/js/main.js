@@ -18,13 +18,21 @@ hoverChangeExperience(
 );
 
 hoverChangeExperience(
+  ".Hagens",
+  `As a Data Scientist, I lead the development of advanced analytics using robust statistical techniques and machine learning algorithms, both supervised and unsupervised. My focus is on generating strategic insights to guide the understanding of persona behavior, enabling a detailed analysis of patterns and trends in digital marketing campaigns. By working with engagement metrics and conversion rates, I contribute to optimizing business decisions and aligning online media strategies with organizational goals, maximizing campaign impact and delivering measurable results.`,
+  "Data Scientist",
+  "Hagens",
+  "Nov 2024 - Today"
+);
+
+hoverChangeExperience(
   ".Hyst",
   `Responsible for overseeing and meticulously verifying data flows related to inventory and customer sales in DB, as well as implementing necessary adjustments. 
   Additionally responsible for creating, optimizing, updating, 
   and verifying dashboards used by clients in Power BI, as well as developing analyses such as Att Rate, model prediction accuracy, and commercial portfolio tracking dashboards, etc.`,
   "BI Analytics",
   "Hyst",
-  "Jan 2024 - Today"
+  "Jan 2024 - Nov 2024"
 );
 
 hoverChangeExperience(
