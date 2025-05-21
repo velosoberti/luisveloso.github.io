@@ -12,9 +12,9 @@ hoverChangeExperience(
   ".Oakem",
   `Responsible for managing the ERP system, controlling documentation, 
   generating Power BI reports for decision-making, managing databases, manipulating staging data, and costing products and departments. Assists with billing and accounting tasks.`,
-  "Financial Assistant",
+  "Financial Analyst",
   "Oakem",
-  "Nov 2021 - Jan 2024 (3 Years)"
+  "Nov 2021 - Oct 2023"
 );
 
 hoverChangeExperience(
@@ -30,9 +30,9 @@ hoverChangeExperience(
   `Responsible for overseeing and meticulously verifying data flows related to inventory and customer sales in DB, as well as implementing necessary adjustments. 
   Additionally responsible for creating, optimizing, updating, 
   and verifying dashboards used by clients in Power BI, as well as developing analyses such as Att Rate, model prediction accuracy, and commercial portfolio tracking dashboards, etc.`,
-  "BI Analytics",
+  "BI Data Analytics",
   "Hyst",
-  "Jan 2024 - Nov 2024"
+  "Oct 2023 - Nov 2024"
 );
 
 hoverChangeExperience(
